@@ -3,13 +3,17 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 <!--  -->
-<p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial&weight=500&size=24&pause=1000&color=10A9D4&center=true&vCenter=true&width=435&lines=Soy+desarrollador+de+software" alt="Typing SVG" /></a>
-</p>
+<div style="text-align: center;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=500&size=24&pause=1000&color=10A9D4&center=true&vCenter=true&width=435&lines=Soy+desarrollador+de+software" alt="Typing SVG" />
+  </a>
+</div>
+
 
 ![SOFTWARE DEVELOPER](https://camo.githubusercontent.com/a9018229e78d674348171929c4fd61ae0f248e84c8027e3b96f4cbe0178fb1c0/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966)
 
-[![GitHub followers](https://img.shields.io/github/followers/MiltonRodriguezDavalos)](https://github.com/MiltonRodriguezDavalos)
+![GitHub followers](https://img.shields.io/github/followers/MiltonRodriguezDavalos?label=https%3A%2F%2Fgithub.com%2FMiltonRodriguezDavalos)
+
 
 ##  **Sobre mi**
 
